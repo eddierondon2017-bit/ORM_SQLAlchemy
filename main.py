@@ -16,5 +16,7 @@ def main():
     mostrar_estudiantes()
     eliminar_estudiante("ana@mail.com")
     mostrar_estudiantes()
-    if __name__ == "__main__":
-        main()
+    
+    
+if __name__ == "__main__":
+    main()
